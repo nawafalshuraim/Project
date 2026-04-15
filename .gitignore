@@ -1,0 +1,17 @@
+# Large binary/model files
+vein_model.pt
+*.pt
+*.mp4
+
+# Dataset files
+images/
+coco-*.json
+
+# Generated outputs
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
